@@ -1,0 +1,15 @@
+{
+	"name": "hide-tabs",
+	"title": "Hide Working Files",
+	"description": "Hides the Working files.",
+	"homepage": "https://github.com/Fraser-Greenlee/show-tabs/tree/master",
+	"version": "0.0.1",
+	"author": "Fraser-Greenlee",
+	"license": "MIT",
+	"files": [
+		"main.css",
+		"main.js"
+	],
+	"contributors": ["Fraser-Greenlee"],
+	"keywords": ["working","file","hide"]
+}
